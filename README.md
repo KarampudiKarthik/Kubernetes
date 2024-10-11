@@ -76,7 +76,7 @@ kops create cluster --name=demok8scluster.k8s.local --state=s3://kops-abhi-stora
 ```
 kops edit cluster myfirstcluster.k8s.local
 ```
-
+>> upto step 11 is enough, to create cluster we need to pay money
 Step 12: Build the cluster
 
 ```
